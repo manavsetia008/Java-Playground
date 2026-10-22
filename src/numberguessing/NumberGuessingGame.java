@@ -1,4 +1,5 @@
 //Console game where the user guesses a random number between 1 and 100
+//with selectable difficulty levels (Easy, Hard, Unlimited)
 
 package numberguessing;
 import java.util.Random;
